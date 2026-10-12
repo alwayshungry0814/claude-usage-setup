@@ -2,7 +2,9 @@
 
 One prompt for **Claude Code** (terminal, desktop app or IDE, run locally) that sets up your global `CLAUDE.md` to get the best results for the least usage: when to orchestrate, which subagents to run, how much effort to spend, and how to keep context small.
 
-From the video **"Double Your Claude Usage Limit"**. In my tests, Opus alone matched Opus + Haiku subagents on a simple build while using a fraction of the tokens. Subagents only paid off on big, parallel search work. The rule: the task has to justify the orchestrator.
+▶️ Watch the video: **[2x your Claude Usage](https://youtube.com/shorts/c_46bmZoDmE)**
+
+From the video: In my tests, Opus alone matched Opus + Haiku subagents on a simple build while using a fraction of the tokens. Subagents only paid off on big, parallel search work. The rule: the task has to justify the orchestrator.
 
 ## How to use it
 
