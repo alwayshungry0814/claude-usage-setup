@@ -64,3 +64,11 @@ Subagents (the task has to justify the orchestrator):
 ## Measure it
 
 Note your 5-hour and weekly usage over a typical week before and after. Results vary by task; token counts in the video come from my own Claude Code session logs.
+
+## License and disclaimer
+
+Released under the [MIT License](LICENSE).
+
+This prompt and its rules are provided "as is," without warranty of any kind. Results, token counts and usage savings vary by task, plan, model and Claude Code version, and nothing here guarantees them. The prompt asks Claude Code to edit your global `CLAUDE.md` and read your local session logs. Review every change before you accept it, and back up your settings first. You are solely responsible for how you use it. To the fullest extent permitted by law, the author is not liable for any loss of data, usage, money or other damages arising from its use.
+
+This is an independent project. It is not affiliated with, endorsed by or sponsored by Anthropic. Claude and Claude Code are trademarks of Anthropic.
